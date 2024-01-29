@@ -31,7 +31,7 @@ struct ContentView: View {
                 Divider()
                 Divider()
                 
-                ContactDetails(detail: "8116922112", detailImage: "phone.fill")
+                ContactDetails(detail: "811692xxxx", detailImage: "phone.fill")
                 Divider()
                 
                 ContactDetails(detail: "dhritideepa.official@gmail.com", detailImage: "envelope.fill").padding(.top)
