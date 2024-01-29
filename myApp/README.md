@@ -13,7 +13,7 @@ Welcome to my first iOS app, built using SwiftUI! This single-page app serves as
 
 ## Introduction
 
-This SwiftUI app is a simple yet effective way for me to introduce myself to others. It provides a brief overview of who I am, other relevant details.
+This SwiftUI app is a simple yet effective way for me to introduce myself to others. It provides a brief overview of who I am,and other relevant details.
 
 ## Features
 
@@ -44,6 +44,6 @@ To run this app on your local machine, follow these steps:
 
 ## Feedback
 
-I welcome any feedback or suggestions you may have. Feel free to [open an issue](https://github.com/yourusername/yourapp/issues) or [reach out to me](mailto:you@example.com) directly.
+I welcome any feedback or suggestions you may have. Feel free to [reach out to me] on provided email directly.
 
 Enjoy exploring my virtual bio app! 🚀
